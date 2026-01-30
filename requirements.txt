@@ -1,0 +1,19 @@
+# Core Dependencies
+diffusers>=0.30.0
+transformers>=4.45.0
+accelerate>=0.34.0
+
+# PyTorch (CUDA version - replace with CPU version if needed)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Optional: xFormers for memory optimization (Windows/Linux with CUDA)
+# Uncomment if you want to install xFormers
+# xformers>=0.0.22
+
+# Optional: For advanced features
+# safetensors>=0.4.0
+# omegaconf>=2.3.0
