@@ -40,10 +40,10 @@ env/
 
 # Generated Images & History
 history/
-*.png
-*.jpg
-*.jpeg
-*.webp
+history/*.png
+history/*.jpg
+history/*.jpeg
+history/*.webp
 
 # Logs
 *.log
